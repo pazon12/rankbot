@@ -2,6 +2,10 @@
 
 Very simple rank bot for [mee6](https://mee6.xyz) on discord.
 
+Do not make an issue asking for help on how to install or use this. I will only respond to bug reports.
+
+Google how to install and use Go.
+
 ## Why?
 With mee6, each time you post a message you get a random number of XP between 5 and 10.
 
