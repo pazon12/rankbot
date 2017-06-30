@@ -47,7 +47,7 @@ func main() {
 }
 
 func findGuild(s *discordgo.Session) *discordgo.UserGuild {
-	gs, err := s.UserGuilds()
+	gs, err := s.UserGuilds(0, "", "")
 	if err != nil {
 		log.Fatal(err)
 	}
